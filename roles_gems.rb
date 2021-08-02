@@ -1,0 +1,2 @@
+gem 'role_model' # Ever needed to assign roles to a model, say a User, and build conditional behaviour on top of that? Enter RoleModel -- roles have never been easier! Just declare your roles and you are done. Assigned roles will be stored as a bitmask.
+gem 'the_role_api' # Authorization for Rails with Web Interface

@@ -1,0 +1,1 @@
+gem 'activity_notification' # Integrated user activity notifications for Ruby on Rails.
